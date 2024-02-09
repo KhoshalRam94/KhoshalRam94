@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhoshalRam94
+- 👋 Hi, I’m KhoshalRam
 - 👀 I’m interested in Data-Science and ML
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Python Programming
